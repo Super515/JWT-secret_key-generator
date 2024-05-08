@@ -1,0 +1,20 @@
+{
+  "name": "jwt-secret_key-generator",
+  "version": "1.0.0",
+  "description": "This is secret key generator for JWT",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "keywords": [
+    "jwt",
+    "express",
+    "secret",
+    "key"
+  ],
+  "author": "super515",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
